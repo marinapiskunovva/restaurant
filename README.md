@@ -1,3 +1,14 @@
+## Restaurant Admin App
+
+### Briefly
+University study project.
+
+React JS + tailwind.css
+
+### Protocol
+![Снимок экрана 2024-11-16 в 22 36 44](https://github.com/user-attachments/assets/f22c117c-988f-4948-b3e4-062240e769b5)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
